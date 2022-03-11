@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nosakou
 - 👀 I’m interested in python, django, rest apis
 - 🌱 I’m currently learning python, django (suddenly)
-- 💞️ I’m looking to collaborate on nothing beacause i'm a junior
 - 📫 How to reach me @yulianosakova in telegram
 
 <!---
